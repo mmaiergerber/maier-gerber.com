@@ -5,12 +5,20 @@
     <link>https://mmaiergerber.github.io/author/andreas-h.-fink/</link>
       <atom:link href="https://mmaiergerber.github.io/author/andreas-h.-fink/index.xml" rel="self" type="application/rss+xml" />
     <description>Andreas H. Fink</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Oct 2019 09:20:00 +0000</lastBuildDate>
     <image>
       <url>https://mmaiergerber.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Andreas H. Fink</title>
       <link>https://mmaiergerber.github.io/author/andreas-h.-fink/</link>
     </image>
+    
+    <item>
+      <title>Statistical–Dynamical Forecasting of North Atlantic TC Activity on the Subseasonal Time Scales</title>
+      <link>https://mmaiergerber.github.io/talk/cyclone_workshop_2019/</link>
+      <pubDate>Thu, 03 Oct 2019 09:20:00 +0000</pubDate>
+      <guid>https://mmaiergerber.github.io/talk/cyclone_workshop_2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Assessing the predictability of Medicanes in ECMWF ensemble forecasts using an object-based approach</title>
