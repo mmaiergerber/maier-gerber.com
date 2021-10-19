@@ -5,12 +5,20 @@
     <link>https://maier-gerber.com/</link>
       <atom:link href="https://maier-gerber.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael Maier-Gerber</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Michael Maier-Gerber</copyright><lastBuildDate>Thu, 03 Oct 2019 09:20:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Michael Maier-Gerber</copyright><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://maier-gerber.com/images/icon_hu969ef0d6a88df67b2346a5fb2a10f2b7_24711_512x512_fill_lanczos_center_2.png</url>
       <title>Michael Maier-Gerber</title>
       <link>https://maier-gerber.com/</link>
     </image>
+    
+    <item>
+      <title>Statistical-Dynamical Forecasting of Sub-Seasonal North Atlantic Tropical Cyclone Occurrence</title>
+      <link>https://maier-gerber.com/publication/maier-gerber-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://maier-gerber.com/publication/maier-gerber-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Statistical–Dynamical Forecasting of North Atlantic TC Activity on the Subseasonal Time Scales</title>
