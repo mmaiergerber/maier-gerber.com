@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin Weissmann | Michael Maier-Gerber</title>
+    <link>https://maier-gerber.com/author/martin-weissmann/</link>
+      <atom:link href="https://maier-gerber.com/author/martin-weissmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martin Weissmann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Michael Maier-Gerber</copyright><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://maier-gerber.com/images/icon_hu233cc30ee7afd7818ed01ec87807c2e2_1124_512x512_fill_lanczos_center_2.png</url>
+      <title>Martin Weissmann</title>
+      <link>https://maier-gerber.com/author/martin-weissmann/</link>
+    </image>
+    
+    <item>
+      <title>Equatorial waves as a key element for weather prediction in the tropics</title>
+      <link>https://maier-gerber.com/publication/oral_and_posters/04_aeolus_workshop_2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://maier-gerber.com/publication/oral_and_posters/04_aeolus_workshop_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

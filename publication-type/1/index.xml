@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Michael Maier-Gerber</title>
+    <link>https://maier-gerber.com/publication-type/1/</link>
+      <atom:link href="https://maier-gerber.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Michael Maier-Gerber</copyright><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://maier-gerber.com/images/icon_hu233cc30ee7afd7818ed01ec87807c2e2_1124_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://maier-gerber.com/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Statistical-Dynamical Forecasting of Sub-Seasonal North Atlantic Tropical Cyclone Occurrence</title>
+      <link>https://maier-gerber.com/publication/papers/04_maier-gerber-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://maier-gerber.com/publication/papers/04_maier-gerber-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the predictability of Medicanes in ECMWF ensemble forecasts using an object-based approach</title>
+      <link>https://maier-gerber.com/publication/papers/03_di-muzio-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://maier-gerber.com/publication/papers/03_di-muzio-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tropical Transition of Hurricane Chris (2012) over the North Atlantic Ocean: A Multiscale Investigation of Predictability</title>
+      <link>https://maier-gerber.com/publication/papers/02_maier-gerber-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://maier-gerber.com/publication/papers/02_maier-gerber-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Birth of the Biscane</title>
+      <link>https://maier-gerber.com/publication/papers/01_maier-gerber-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://maier-gerber.com/publication/papers/01_maier-gerber-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

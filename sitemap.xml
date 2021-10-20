@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://maier-gerber.com/publication-type/2/</loc>
+    <loc>https://maier-gerber.com/publication-type/1/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,22 +58,52 @@
   </url>
   
   <url>
-    <loc>https://maier-gerber.com/publication/maier-gerber-2021/</loc>
+    <loc>https://maier-gerber.com/publication/papers/04_maier-gerber-2021/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://maier-gerber.com/talk/</loc>
-    <lastmod>2019-10-03T09:20:00+00:00</lastmod>
+    <loc>https://maier-gerber.com/publication-type/2/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://maier-gerber.com/talk/cyclone_workshop_2019/</loc>
-    <lastmod>2019-10-03T09:20:00+00:00</lastmod>
+    <loc>https://maier-gerber.com/publication/oral_and_posters/06_ams_tropical_2021_tcactivity/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://maier-gerber.com/publication/di-muzio-2019/</loc>
+    <loc>https://maier-gerber.com/publication/oral_and_posters/05_helmholtz_ai_conf_2021_tcactivity/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maier-gerber.com/publication/oral_and_posters/04_aeolus_workshop_2020/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maier-gerber.com/author/martin-weissmann/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maier-gerber.com/author/maurus-borne/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maier-gerber.com/author/peter-knippertz/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maier-gerber.com/publication/oral_and_posters/03_cyclone_workshop_2019_tcactivity/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maier-gerber.com/publication/papers/03_di-muzio-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -118,11 +148,6 @@
   </url>
   
   <url>
-    <loc>https://maier-gerber.com/author/peter-knippertz/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://maier-gerber.com/tag/predictability/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -148,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://maier-gerber.com/publication/maier-gerber-2019/</loc>
+    <loc>https://maier-gerber.com/publication/papers/02_maier-gerber-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -158,8 +183,18 @@
   </url>
   
   <url>
-    <loc>https://maier-gerber.com/talk/ams_tropical_2018_chris/</loc>
-    <lastmod>2018-04-16T15:15:00+00:00</lastmod>
+    <loc>https://maier-gerber.com/publication/oral_and_posters/02_ams_tropical_2018_chris/</loc>
+    <lastmod>2018-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maier-gerber.com/publication/oral_and_posters/01_ams_tropical_2018_biscane/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maier-gerber.com/author/florian-pantillon/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -168,17 +203,12 @@
   </url>
   
   <url>
-    <loc>https://maier-gerber.com/publication/maier-gerber-2017/</loc>
+    <loc>https://maier-gerber.com/publication/papers/01_maier-gerber-2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://maier-gerber.com/tag/climate-change/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maier-gerber.com/author/florian-pantillon/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -207,6 +237,10 @@
   
   <url>
     <loc>https://maier-gerber.com/author/michael-maier-gerber/</loc>
+  </url>
+  
+  <url>
+    <loc>https://maier-gerber.com/talk/</loc>
   </url>
   
 </urlset>

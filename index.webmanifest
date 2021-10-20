@@ -2,14 +2,14 @@
   "name": "Michael Maier-Gerber",
   "short_name": "Michael Maier-Gerber",
   "lang": "en-us",
-  "theme_color": "#1a3a7c",
-  "background_color": "#1a3a7c",
+  "theme_color": "#547bc7",
+  "background_color": "#547bc7",
   "icons": [{
-    "src": "/images/icon_hu969ef0d6a88df67b2346a5fb2a10f2b7_24711_192x192_fill_lanczos_center_2.png",
+    "src": "/images/icon_hu233cc30ee7afd7818ed01ec87807c2e2_1124_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/images/icon_hu969ef0d6a88df67b2346a5fb2a10f2b7_24711_512x512_fill_lanczos_center_2.png",
+    "src": "/images/icon_hu233cc30ee7afd7818ed01ec87807c2e2_1124_512x512_fill_lanczos_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
